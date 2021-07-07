@@ -10,7 +10,7 @@ object **Vinicius** {
  val name = "Vinicius Oliveira"
  val acknowledgements = "Front End development"
  
- val primarySkillset = "Web Development"
+ val primarySkillset = "SKILLS"
  val languages = listOf("JavaScript", "Angular", "Node", "React", "SQL") 
 
 }
