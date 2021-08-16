@@ -8,10 +8,10 @@
 ```kotlin
 object **Vinicius** {
  val name = "Vinicius Oliveira"
- val learning = "Angular and Java"
+ val learning = "Angular and Flutter"
  
  val primarySkillset = "Web Development"
- val languages = listOf("JavaScript", "Angular", "Node", "React", "SQL", "Java") 
+ val languages = listOf("JavaScript", "Angular", "Node", "React", "SQL") 
 
 }
 ```
