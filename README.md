@@ -11,7 +11,8 @@ object **Vinicius** {
  val occupation = "Sofware Engineer"
  
  val learning = "Angular and Flutter"
- val languages = listOf("JavaScript", "Angular", "Node", "React", "SQL", "Python", "Java") 
+ val languages = listOf("JavaScript", "SQL", "Python", "Dart", "Java") 
+ val frameworks = listOf("Angular", "React", "Flutter") 
 
 }
 ```
