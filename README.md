@@ -23,7 +23,7 @@ ___
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/enfj-personality">ENJA-A</a>
   - I can speak Portuguese/English/Spanish and I am currently looking to learn French
-  - I like play FPS games and watch animes and series 
+  
 
 ### 📫 Want To Reach Out?
 ___
