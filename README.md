@@ -5,8 +5,8 @@
 
 ___
 
-- I'm a <u>developer & aspiring to DBA</u><br>
-- I'm from Brazil, living in Sao Paulo `GMT-3`
+- I'm a <u>developer & aspiring to Data Scientist.</u><br>
+- I'm from Brazil, living in Sao Paulo. `GMT-3`
 
 
 
@@ -16,13 +16,13 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently building applications for clients using Angular, Flutter and WordPress.
+  - 👨🏻‍💻 Currently building applications for clients using React, Node and WordPress.
 
 
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/enfj-personality">ENJA-A</a>
-  - I can speak Portuguese/English/Spanish and I am currently looking to learn French
+  - I can speak Portuguese/English/Spanish and I am currently looking to improve each one.
   
 
 ### 📫 Want To Reach Out?
@@ -38,7 +38,7 @@ ___
 
 ___
 
-**🏆 I Build With:** Angular, Flutter, Python...
+**🏆 I Build With:** Angular, React, Flutter, Python...
 
 
 
