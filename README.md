@@ -30,7 +30,7 @@ ___
 
 - My Personal Email:  <a target="_blank" href="mailto:vicevini@live.com">vicevini@live.com</a>
 
-- Twitter:  <a target="_blank" href="https://twitter.com/viniciusgg_"> @viniciusgg_ </a>
+- LinkedIn:  <a target="_blank" href="https://www.linkedin.com/in/vicevini/"> Vinicius Oliveira </a>
    
 
 
