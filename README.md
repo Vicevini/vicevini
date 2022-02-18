@@ -5,7 +5,7 @@
 
 ___
 
-- I'm a <u>developer & aspiring to Data Scientist.</u><br>
+- I'm a aspiring to Data Scientist.</u><br>
 - I'm from Brazil, living in Sao Paulo. `GMT-3`
 
 
@@ -16,7 +16,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently building applications for clients using React, Node and WordPress.
+  - 👨🏻‍💻 Currently working as Software Quality Assurance.
 
 
 - **🙋‍♂️ Personal**
@@ -38,7 +38,7 @@ ___
 
 ___
 
-**🏆 I Build With:** Angular, React, Flutter, Python...
+**🏆 I Build With:** Angular, React, Flutter, NodeJS, MongoDB, Python...
 
 
 
