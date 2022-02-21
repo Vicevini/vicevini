@@ -22,7 +22,7 @@ ___
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/enfj-personality">ENJA-A</a>
-  - I can speak Portuguese/English/Spanish and I am currently looking to improve each one.
+  - I can speak Portuguese/English/Spanish, still studying to improve each one.
   
 
 ### 📫 Want To Reach Out?
@@ -38,7 +38,7 @@ ___
 
 ___
 
-**🏆 I Build With:** Angular, React, Flutter, NodeJS, MongoDB, Python...
+**🏆 I Build With:** React, NodeJS, MongoDB, WordPress and Python.
 
 
 
