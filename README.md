@@ -46,7 +46,7 @@ ___
 
 ___
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=vicevini&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/vicevini?tab=repositories)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=vicevini&show_icons=true&hide_border=true&title_color=bc032b&icon_color=bc032b&text_color=ffffff&bg_color=0a192f&count_private=true&theme=dark)](https://github.com/vicevini?tab=repositories)
 [![vicevini](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevini&hide=html&layout=compact&theme=dark)](https://github.com/vicevini/)
 
 
