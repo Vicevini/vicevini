@@ -8,8 +8,6 @@ ___
 - I'm a aspiring to Data Scientist.</u><br>
 - I'm from Brazil, living in Sao Paulo. `GMT-3`
 
-
-
 ### ⚡ Quick Facts About Me
 
 ___
@@ -22,7 +20,7 @@ ___
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/enfj-personality">ENJA-A</a>
-  - I can speak Portuguese/English/Spanish, still studying to improve each one.
+  - I can speak Portuguese, English and Spanish.
   
 
 ### 📫 Want To Reach Out?
@@ -32,8 +30,6 @@ ___
 
 - LinkedIn:  <a target="_blank" href="https://www.linkedin.com/in/vicevini/"> Vinicius Oliveira </a>
    
-
-
 ### 🖥 Tech I Work With
 
 ___
@@ -42,12 +38,9 @@ ___
 
 
 
-### 📈 Stats
+
 
 ___
-
-[![My Stats](https://github-readme-stats.vercel.app/api?username=vicevini&show_icons=true&hide_border=true&title_color=bc032b&icon_color=bc032b&text_color=ffffff&bg_color=0a192f&count_private=true&theme=dark)](https://github.com/vicevini?tab=repositories) <br>
-[![vicevini](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevini&hide=html&layout=compact&theme=dark)](https://github.com/vicevini/)
 
 
 
@@ -109,4 +102,10 @@ object **Vinicius** {
 <code><img height="30" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 
 <br> 
+
+### 📈 Stats
+[![My Stats](https://github-readme-stats.vercel.app/api?username=vicevini&show_icons=true&hide_border=true&title_color=bc032b&icon_color=bc032b&text_color=ffffff&bg_color=0a192f&count_private=true&theme=dark)](https://github.com/vicevini?tab=repositories) <br>
+[![vicevini](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevini&hide=html&layout=compact&theme=dark)](https://github.com/vicevini/)
+
+
 -->
