@@ -5,7 +5,7 @@
 
 ___
 
-- I'm a develooper, aspiring to Data Scientist.</u><br>
+- I'm a developer, aspiring to Data Scientist.</u><br>
 - I'm from Brazil, living in Sao Paulo. `GMT-3`
 
 ### ⚡ Quick Facts About Me
