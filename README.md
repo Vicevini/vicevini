@@ -1,5 +1,5 @@
 ### What's up, I'm Vinicius  👋
-___
+
 
 ### About me
 ___
@@ -29,11 +29,12 @@ ___
 - React, NodeJS, MongoDB and WordPress <br>
 
 
-**🏆 I Build With:** 
+### 🏆 I Build With:
 ___
 
 - React, NodeJS, MongoDB, WordPress and Python. <br> 
 
+___
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 <!--
