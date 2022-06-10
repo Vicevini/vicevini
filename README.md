@@ -1,40 +1,38 @@
 ### What's up, I'm Vinicius  👋
-
-
-### About me
-
 ___
 
-- I'm a developer, aspiring to Data Scientist.</u><br>
+### About me
+___
+
+- I'm a software developer and Data Scientist enthusiast.</u><br>
 - I'm from Brazil, living in Sao Paulo. `GMT-3`
 
 ### ⚡ Quick Facts About Me
-
 ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently working as Software Quality Assurance.
-
+  - 👨🏻‍💻 Currently working as Software Quality Assurance at @finanzero.
 
 - **🙋‍♂️ Personal**
 
   - I'm an <a target="_blank" href="https://www.16personalities.com/enfj-personality">ENJA-A</a>
-  - I can speak Portuguese, English and Spanish.
+  - I can speak Portuguese and English.
   
-
 ### 📫 Want To Reach Out?
 ___
 
 - LinkedIn:  <a target="_blank" href="https://www.linkedin.com/in/vicevini/"> Vinicius Oliveira </a>
    
 ### 🖥 Tech I Work With
+___
+- React, NodeJS, MongoDB and WordPress <br>
 
+
+**🏆 I Build With:** 
 ___
 
-**🏆 I Build With:** React, NodeJS, MongoDB, WordPress and Python. <br> 
-
-___
+- React, NodeJS, MongoDB, WordPress and Python. <br> 
 
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
