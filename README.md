@@ -32,7 +32,7 @@ ___
 ### 🏆 I Build With:
 ___
 
-- React, NodeJS, MongoDB, WordPress and Python. <br> 
+- React, NodeJS, MongoDB and Python. <br> 
 
 ___
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
