@@ -4,7 +4,7 @@
 ### About me
 ___
 
-- I'm a software developer and Data Scientist enthusiast.</u><br>
+- I'm a Software Developer and Data Scientist enthusiast.</u><br>
 - I'm from Brazil, living in Sao Paulo. `GMT-3`
 
 ### ⚡ Quick Facts About Me
