@@ -12,7 +12,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently working as Software Quality Assurance at @finanzero.
+  - 👨🏻‍💻 Currently working as Software Developer at @finanzero.
 
 - **🙋‍♂️ Personal**
 
