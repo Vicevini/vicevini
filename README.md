@@ -4,15 +4,15 @@
 ### About me
 ___
 
-- I'm a Software Developer and Data Scientist enthusiast.</u><br>
-- I'm from Brazil, living in Sao Paulo. `GMT-3`
+- I'm a Software Engineer and Data Scientist enthusiast.</u><br>
+- I'm from Brazil, living in São Paulo. `GMT-3`
 
 ### ⚡ Quick Facts About Me
 ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently working as Software Developer at @finanzero.
+  - 👨🏻‍💻 Currently working as Software Engineer at @finanzero.
 
 - **🙋‍♂️ Personal**
 
@@ -26,13 +26,13 @@ ___
    
 ### 🖥 Tech I Work With
 ___
-- React, NodeJS, MongoDB and WordPress <br>
+- React, NodeJS, Python, Golang and MongoDB. <br>
 
 
 ### 🏆 I Build With:
 ___
 
-- React, NodeJS, MongoDB and Python. <br> 
+- NodeJS, Golang, React, Python and MongoDB. <br> 
 
 ___
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
