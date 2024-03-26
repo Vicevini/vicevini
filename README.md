@@ -12,7 +12,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently working as Software Engineer at @finanzero.
+  - 👨🏻‍💻 Currently looking for new opportunities and exciting projects.
 
 - **🙋‍♂️ Personal**
 
