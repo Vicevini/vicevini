@@ -12,7 +12,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Currently looking for new opportunities and exciting projects.
+  - 👨🏻‍💻 Currently working at Forma Turismo.
 
 - **🙋‍♂️ Personal**
 
