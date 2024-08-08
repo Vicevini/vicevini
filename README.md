@@ -4,7 +4,7 @@
 ### About me
 ___
 
-- I'm a Software Engineer and Data Scientist enthusiast.</u><br>
+- I'm a Software Engineer and Data Analyst enthusiast.</u><br>
 - I'm from Brazil, living in São Paulo. `GMT-3`
 
 ### ⚡ Quick Facts About Me
@@ -16,7 +16,6 @@ ___
 
 - **🙋‍♂️ Personal**
 
-  - I'm an <a target="_blank" href="https://www.16personalities.com/enfj-personality">ENJA-A</a>
   - I can speak Portuguese and English.
   
 ### 📫 Want To Reach Out?
@@ -26,13 +25,13 @@ ___
    
 ### 🖥 Tech I Work With
 ___
-- TypeScript, Python, Golang, SQL and MongoDB. <br>
+- JavaScript, Golang, TypeScript, SQL and MongoDB. <br>
 
 
 ### 🏆 I Build With:
 ___
 
-- NodeJS, NestJs, Golang, Angular, React, Python and MongoDB. <br> 
+- NodeJS, NestJs, Golang, React, Next.js, Angular, PostgreSQL and MongoDB. <br> 
 
 ___
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
