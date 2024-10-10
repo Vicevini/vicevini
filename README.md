@@ -25,16 +25,17 @@ ___
    
 ### 🖥 Tech I Work With
 ___
-- JavaScript, Golang, TypeScript, SQL and MongoDB. <br>
+- JavaScript, Golang, Java, SQL and MongoDB. <br>
 
 
 ### 🏆 I Build With:
 ___
 
-- NodeJS, NestJs, Golang, React, Next.js, Angular, PostgreSQL and MongoDB. <br> 
+- Spring Boot, NestJs, Golang, React, Next.js, Angular, PostgreSQL and MongoDB. <br> 
 
 ___
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
 <!--
 
 <a href="https://twitter.com/viniciusgg_"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
