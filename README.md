@@ -25,7 +25,7 @@ ___
    
 ### 🖥 Tech I Work With
 ___
-- JavaScript, Golang, Java, SQL and MongoDB. <br>
+-  ASP.Net, C# and SQL<br>
 
 
 ### 🏆 I Build With:
