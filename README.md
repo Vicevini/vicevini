@@ -12,7 +12,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Looking for opportunitties.
+  - 👨🏻‍💻 Working at   <a target="_blank" href="https://portal.fei.edu.br/"> @FEI </a>
 
 - **🙋‍♂️ Personal**
 
