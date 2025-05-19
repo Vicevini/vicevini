@@ -12,7 +12,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Working at   <a target="_blank" href="https://portal.fei.edu.br/"> @FEI </a>
+  - 👨🏻‍💻 Working in multiple projects
 
 - **🙋‍♂️ Personal**
 
