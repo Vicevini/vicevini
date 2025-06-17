@@ -4,7 +4,7 @@
 ### About me
 ___
 
-- I'm a Software Engineer and Data Analyst enthusiast.</u><br>
+- I'm a Software Engineer.</u><br>
 - I'm from Brazil, living in São Paulo. `GMT-3`
 
 ### ⚡ Quick Facts About Me
@@ -12,7 +12,7 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Working in multiple projects
+  - 👨🏻‍💻 Working in private projects.
 
 - **🙋‍♂️ Personal**
 
@@ -31,7 +31,7 @@ ___
 ### 🏆 I Build With:
 ___
 
-- Spring Boot, NestJs, Golang, React, Next.js, Angular, PostgreSQL and MongoDB. <br> 
+- NestJs, Spring Boot, Golang, React, Next.js, PostgreSQL and MongoDB. <br> 
 
 ___
 <a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
