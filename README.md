@@ -1,61 +1,41 @@
-### What's up, I'm Vinicius Oliveira 👋
+# 👋 Hey, I'm Vinicius Oliveira
 
+## About Me
+---
 
-### About me
-___
+- 💼 I'm a **Software Engineer** with a strong background in backend development and QA automation (SDET).
+- 🌎 Based in **São Paulo, Brazil** – GMT-3.
+- 💬 Fluent in **Portuguese** and **English**.
+- 🎯 Passionate about building scalable solutions and delivering high-quality software.
 
-- I'm a Software Engineer.</u><br>
-- I'm from Brazil, living in São Paulo. `GMT-3`
+## ⚡ Quick Facts
+---
 
-### ⚡ Quick Facts About Me
-___
+- 👨🏻‍💻 Currently working on **private projects** as a **Software Development Engineer in Test** (SDET).
+- 🚀 Focused on writing **clean**, **efficient** and **testable** code.
+- 🧪 I bridge the gap between **development** and **quality assurance** through automation and good practices.
 
-- **💻 Work**
+## 🛠 Tech Stack
+---
 
-  - 👨🏻‍💻 Currently working in private projects as a SDET.
+### 💻 Languages & Databases
+- **TypeScript**, **Golang**, **Java**, **SQL**
+- **PostgreSQL**, **MongoDB**
 
-- **🙋‍♂️ Personal**
+### 🧰 Frameworks & Tools
+- **NestJS**, **Spring Boot**, **React**, **Next.js**
+- **Playwright**, **Jest**, **Docker**, **Git**
 
-  - I can speak Portuguese and English.
-  
-### 📫 How to reach me?
-___
+### 📚 Currently Learning
+- **Microservices** and **AWS**
 
-- LinkedIn:  <a target="_blank" href="https://www.linkedin.com/in/vicevini/"> Vinicius Oliveira </a>
-   
-### 🖥 Tech I Work With
-___
--  TypeScript, Golang and MongoDb <br>
+## 📫 Let’s Connect
+---
 
-### 🏆 I Build With:
-___
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vicevini/)
 
-- NestJs, Spring Boot, Golang, React, Next.js, PostgreSQL and MongoDB. <br> 
+## 📈 GitHub Stats
+---
 
-___
-<a href="https://www.linkedin.com/in/vicevini/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-
-<!--
-
-<a href="https://twitter.com/viniciusgg_"><img  src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-```kotlin
-object **Vinicius** {
- val name = "Vinicius Oliveira"
- val occupation = "Sofware Engineer"
- 
- val learning = "Angular and Flutter"
- val languages = listOf("JavaScript", "SQL", "Python", "Dart", "Java") 
- val frameworks = listOf("Angular", "React", "Flutter") 
-
-}
-```
-
-
-
-### 📈 Stats
-[![My Stats](https://github-readme-stats.vercel.app/api?username=vicevini&show_icons=true&hide_border=true&title_color=bc032b&icon_color=bc032b&text_color=ffffff&bg_color=0a192f&count_private=true&theme=dark)](https://github.com/vicevini?tab=repositories) <br>
-[![vicevini](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevini&hide=html&layout=compact&theme=dark)](https://github.com/vicevini/)
-
-
--->
+![My Stats](https://github-readme-stats.vercel.app/api?username=vicevini&show_icons=true&hide_border=true&title_color=bc032b&icon_color=bc032b&text_color=ffffff&bg_color=0a192f&count_private=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicevini&hide=html&layout=compact&theme=dark)
