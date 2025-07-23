@@ -1,4 +1,4 @@
-### What's up, I'm Vinicius  👋
+### What's up, I'm Vinicius Oliveira 👋
 
 
 ### About me
@@ -12,13 +12,13 @@ ___
 
 - **💻 Work**
 
-  - 👨🏻‍💻 Working in private projects.
+  - 👨🏻‍💻 Currently working in private projects as a SDET.
 
 - **🙋‍♂️ Personal**
 
   - I can speak Portuguese and English.
   
-### 📫 Want To Reach Out?
+### 📫 How to reach me?
 ___
 
 - LinkedIn:  <a target="_blank" href="https://www.linkedin.com/in/vicevini/"> Vinicius Oliveira </a>
@@ -26,7 +26,6 @@ ___
 ### 🖥 Tech I Work With
 ___
 -  TypeScript, Golang and MongoDb <br>
-
 
 ### 🏆 I Build With:
 ___
